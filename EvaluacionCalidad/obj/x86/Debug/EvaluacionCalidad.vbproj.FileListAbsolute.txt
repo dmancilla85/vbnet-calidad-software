@@ -1,0 +1,58 @@
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\bin\Debug\EvaluacionCalidad.exe
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\bin\Debug\EvaluacionCalidad.pdb
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\bin\Debug\EvaluacionCalidad.xml
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.frmMain.resources
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.Resources.resources
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.exe
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.xml
+C:\Users\David\AppData\Local\Temporary Projects\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.pdb
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\ResGen.read.1.tlog
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\ResGen.write.1.tlog
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.frmMain.resources
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.Resources.resources
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.SplashScreen1.resources
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.exe.config
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.exe.manifest
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.application
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.exe
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.pdb
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.xml
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.AboutBox1.resources
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.exe.manifest
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.application
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.exe
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.xml
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.pdb
+D:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.vbprojAssemblyReference.cache
+D:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.AboutBox1.resources
+D:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.frmMain.resources
+D:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.Resources.resources
+D:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.SplashScreen1.resources
+D:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.vbproj.GenerateResource.cache
+D:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.exe
+D:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.xml
+D:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.pdb
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.vbprojAssemblyReference.cache
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.AboutBox1.resources
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.frmMain.resources
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.Resources.resources
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionDeCalidad.SplashScreen1.resources
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.vbproj.GenerateResource.cache
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\EvaluacionCalidad.vbproj.CoreCompileInputs.cache
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.exe
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.xml
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.pdb
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.exe.config
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.exe.manifest
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.application
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.exe
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.pdb
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\bin\Debug\Evaluacion de calidad - Grupo 12.xml
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.exe.manifest
+C:\Proyectos\vbnet\EvaluaCalidad\EvaluacionCalidad\obj\x86\Debug\Evaluacion de calidad - Grupo 12.application

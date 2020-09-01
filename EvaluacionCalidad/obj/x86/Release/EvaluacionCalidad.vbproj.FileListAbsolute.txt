@@ -1,0 +1,20 @@
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\EvaluacionDeCalidad.frmMain.resources
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\EvaluacionDeCalidad.Resources.resources
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\EvaluacionDeCalidad.SplashScreen1.resources
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\ResGen.read.1.tlog
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\ResGen.write.1.tlog
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Release\Evaluacion de calidad - Grupo 12.exe.config
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Release\Evaluacion de calidad - Grupo 12.exe.manifest
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Release\Evaluacion de calidad - Grupo 12.application
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Release\Evaluacion de calidad - Grupo 12.exe
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Release\Evaluacion de calidad - Grupo 12.pdb
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\bin\Release\Evaluacion de calidad - Grupo 12.xml
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\EvaluacionDeCalidad.AboutBox1.resources
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\Evaluacion de calidad - Grupo 12.exe.manifest
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\Evaluacion de calidad - Grupo 12.application
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\Evaluacion de calidad - Grupo 12.exe
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\Evaluacion de calidad - Grupo 12.xml
+F:\Proyectos\vbasic\vbnet\EvaluaCalidad\EvaluacionCalidad\EvaluacionCalidad\obj\x86\Release\Evaluacion de calidad - Grupo 12.pdb
